@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|c:\\users\\abdur rehman\\desktop\\db final project\\final project db 23_bscs_1180\\bankmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\infof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\infof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\newaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\newaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\infof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\infof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\newaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\newaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\bankmanagementsystem\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem\\BankManagementsystem.csproj|solutionrelative:bankmanagementsystem\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Program.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Program.cs",
+              "RelativeToolTip": "BankManagementsystem\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:35:16.326Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form3.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\Form3.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:56:37.242Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form3.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\Form3.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form3.cs",
+              "RelativeToolTip": "BankManagementsystem\\Form3.cs",
+              "ViewState": "AQIAANMAAAAANDMzMzPTv+EAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:13:31.804Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\SettingForm.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\SettingForm.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\SettingForm.cs [Design]",
+              "RelativeToolTip": "BankManagementsystem\\SettingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:35:04.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfoF.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\InfoF.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\InfoF.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\InfoF.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\InfoF.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:24:20.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form1.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form1.cs [Design]",
+              "RelativeToolTip": "BankManagementsystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:03:43.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\SettingForm.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\SettingForm.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\SettingForm.cs*",
+              "RelativeToolTip": "..\\..\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\SettingForm.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:38:46.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form1.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form1.cs",
+              "RelativeToolTip": "BankManagementsystem\\Form1.cs",
+              "ViewState": "AQIAAGcAAAAAZmZmZmY4wLIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:03:47.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form3.Designer.cs",
+              "RelativeToolTip": "BankManagementsystem\\Form3.Designer.cs",
+              "ViewState": "AQIAAEYBAAAAAAAAAAAYwDICAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:13:13.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\ManageUser.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\ManageUser.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\ManageUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\ManageUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:24:44.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form2.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\Form2.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:24:30.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProgressForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\ProgressForm.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\ProgressForm.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\ProgressForm.cs",
+              "RelativeToolTip": "BankManagementsystem\\ProgressForm.cs",
+              "ViewState": "AQIAAB4AAAAAmJmZmZnpvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:25:05.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProgressForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\ProgressForm.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\ProgressForm.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\ProgressForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\ProgressForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:25:00.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\NewAccount.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\NewAccount.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\NewAccount.cs",
+              "RelativeToolTip": "BankManagementsystem\\NewAccount.cs",
+              "ViewState": "AQIAAB4BAAAA0MzMzMwUwJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:35:31.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InfoF.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\InfoF.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\InfoF.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\InfoF.cs",
+              "RelativeToolTip": "BankManagementsystem\\InfoF.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:07:42.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form2.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\Form2.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\Form2.cs",
+              "RelativeToolTip": "BankManagementsystem\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:33:57.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditUser.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\EditUser.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\EditUser.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\EditUser.cs",
+              "RelativeToolTip": "BankManagementsystem\\EditUser.cs",
+              "ViewState": "AQIAAHUAAADAzMzMzMwewHUAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:32:56.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\EditUser.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\EditUser.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\EditUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\EditUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:32:28.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\AdminPanel.cs",
+              "RelativeToolTip": "BankManagementsystem\\AdminPanel.cs",
+              "ViewState": "AQIAADkAAAAAMzMzMzMpwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:32:48.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\AdminPanel.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\AdminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:32:24.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NewAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\NewAccount.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\NewAccount.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\NewAccount.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\NewAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:24:47.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManageUser.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\ManageUser.cs",
+              "RelativeDocumentMoniker": "BankManagementsystem\\ManageUser.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\DB Final Project\\Final Project DB 23_BSCS_1180\\BankManagementsystem\\ManageUser.cs",
+              "RelativeToolTip": "BankManagementsystem\\ManageUser.cs",
+              "ViewState": "AQIAAA8AAAAAMjMzMzMvwBQAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:56:54.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

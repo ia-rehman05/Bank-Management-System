@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\infof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:infof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|c:\\users\\abdur rehman\\desktop\\bankmanagementsystem\\bankmanagementsystem\\newaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:newaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\newaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:newaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\infof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:infof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52242B7-9610-4C88-9086-39782B4F6726}|BankManagementsystem.csproj|solutionrelative:progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAAAPIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:51:59.121Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\NewAccount.cs",
+              "RelativeDocumentMoniker": "NewAccount.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\NewAccount.cs [Design]",
+              "RelativeToolTip": "NewAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:42:54.759Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\NewAccount.cs",
+              "RelativeDocumentMoniker": "NewAccount.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\NewAccount.cs",
+              "RelativeToolTip": "NewAccount.cs",
+              "ViewState": "AQIAAAkBAAAAAAAAAAAuwCEBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:44:56.792Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:57:24.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfoF.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\InfoF.cs",
+              "RelativeDocumentMoniker": "InfoF.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\InfoF.cs [Design]",
+              "RelativeToolTip": "InfoF.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:17:25.125Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "AdminPanel.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\AdminPanel.cs [Design]",
+              "RelativeToolTip": "AdminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:01:07.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageUser.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\ManageUser.cs",
+              "RelativeDocumentMoniker": "ManageUser.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\ManageUser.cs",
+              "RelativeToolTip": "ManageUser.cs",
+              "ViewState": "AQIAAKkAAAAwAAAAAAAQwNgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:52:54.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\ManageUser.cs",
+              "RelativeDocumentMoniker": "ManageUser.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\ManageUser.cs [Design]",
+              "RelativeToolTip": "ManageUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:35:11.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InfoF.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\InfoF.cs",
+              "RelativeDocumentMoniker": "InfoF.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\InfoF.cs",
+              "RelativeToolTip": "InfoF.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAASwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:24:40.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "AdminPanel.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\AdminPanel.cs",
+              "RelativeToolTip": "AdminPanel.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAuwDkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:12:09.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\SettingForm.cs",
+              "RelativeDocumentMoniker": "SettingForm.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\SettingForm.cs [Design]",
+              "RelativeToolTip": "SettingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:27:49.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SettingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\SettingForm.cs",
+              "RelativeDocumentMoniker": "SettingForm.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\SettingForm.cs",
+              "RelativeToolTip": "SettingForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:27:52.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\Prompt.cs",
+              "RelativeDocumentMoniker": "Prompt.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\Prompt.cs",
+              "RelativeToolTip": "Prompt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:29:22.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:27:03.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:10:36.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProgressForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\ProgressForm.cs",
+              "RelativeDocumentMoniker": "ProgressForm.cs",
+              "ToolTip": "C:\\Users\\Abdur Rehman\\Desktop\\BankManagementsystem\\BankManagementsystem\\ProgressForm.cs [Design]",
+              "RelativeToolTip": "ProgressForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:44:05.669Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
